@@ -24,6 +24,6 @@ The TA office hours will be announced, with an accompanying Bluejeans link, in a
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
-|<img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
-|<img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+|<img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+|<img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+|<img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
