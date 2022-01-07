@@ -25,5 +25,8 @@ The TA office hours will be announced, with an accompanying Bluejeans link, in a
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+| agupta931@gatech.edu | agupta931@gatech.edu | agupta931@gatech.edu |
 |<img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+| agupta931@gatech.edu | agupta931@gatech.edu | agupta931@gatech.edu |
 |<img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="150" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+| agupta931@gatech.edu | agupta931@gatech.edu | agupta931@gatech.edu |
