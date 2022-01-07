@@ -17,7 +17,7 @@ The TA office hours will be announced, with an accompanying Bluejeans link, in a
 * John Yi
 
 <p float="left">
-  <img src="/images/corl.jpg" width="100" />
-  <img src="/images/corl.jpg" width="100" />
-  <img src="/images/corl.jpg" width="100" />
+  <img src="images/corl.jpg" width="100" />
+  <img src="images/corl.jpg" width="100" />
+  <img src="images/corl.jpg" width="100" />
 </p>
