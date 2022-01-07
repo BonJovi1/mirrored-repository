@@ -16,8 +16,14 @@ The TA office hours will be announced, with an accompanying Bluejeans link, in a
 * Maya Rajan
 * John Yi
 
-<p float="left">
-  <img src="images/corl.jpg" width="100" />
-  <img src="images/corl.jpg" width="100" />
-  <img src="images/corl.jpg" width="100" />
+<p align="center">
+  <img src="images/corl.jpg" width="150" /> &nbsp; &nbsp; &nbsp; 
+  <img src="images/corl.jpg" width="150" /> &nbsp; &nbsp; &nbsp;
+  <img src="images/corl.jpg" width="150" />
 </p>
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+|<img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
+|<img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta |  <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta | <img width="1604" alt="lol" src="images/corl.jpg">  Abhinav Gupta|
