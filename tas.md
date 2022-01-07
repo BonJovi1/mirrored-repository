@@ -15,3 +15,9 @@ The TA office hours will be announced, with an accompanying Bluejeans link, in a
 * Pratyusha Karnati
 * Maya Rajan
 * John Yi
+
+<p float="left">
+  <img src="/images/corl.jpg" width="100" />
+  <img src="/images/corl.jpg" width="100" />
+  <img src="/images/corl.jpg" width="100" />
+</p>
